@@ -6,7 +6,7 @@ Network for Swin-Transformer. The pytorch version.
 
 If this works for you, please give me a star, this is very important to me.😊
 
-1. Clone this repository
+1. Clone this repository.
 
 ```shell
 git clone https://github.com/Runist/Swin-Transformer
