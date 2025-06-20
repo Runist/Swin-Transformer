@@ -1,0 +1,8 @@
+matplotlib==3.10.3
+numpy==2.3.0
+Pillow==11.2.1
+prettytable==3.16.0
+torch==2.3.0+cu121
+torchvision==0.18.0+cu121
+tqdm==4.67.1
+tensorboard
